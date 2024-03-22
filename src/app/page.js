@@ -9,6 +9,7 @@ const page = () => {
   return (
     <div>
       <Hero></Hero>
+      {/* this is a test */}
       <Projects></Projects>
       <Experience></Experience>
       <Me></Me>
